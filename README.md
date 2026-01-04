@@ -9,7 +9,8 @@ Most of my work revolves around connecting people, simplifying workflows, and tu
 
 - 🔭 I’m currently working on
 - 1. FOMO - An event hosting and Management Platform
-  2. Working On My Skills
+  2. Go Lang
+  3. Thinking Of A Project that can go big
 - <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
