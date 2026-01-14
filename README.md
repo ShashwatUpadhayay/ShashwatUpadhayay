@@ -6,9 +6,9 @@ Not half-finished ideas.
 But systems that people can actually use.
 
 Most of my work revolves around connecting people, simplifying workflows, and turning complex processes into intuitive experiences. 
-- 🔭 I’m currently working on
-- 1. FOMO - An event hosting and Management Platform
-- 🌱 I’m currently learning:
+🔭 I’m currently working on
+1. FOMO - An event hosting and Management Platform
+🌱 I’m currently learning:
 1. Go Lang
 - <!--
 - 👯 I’m looking to collaborate on ...
