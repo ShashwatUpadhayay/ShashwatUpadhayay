@@ -13,6 +13,7 @@ Most of my work revolves around connecting people and turning complex processes 
 🌱 I’m currently learning:
 1. Go Lang
 2. Backend Development
+3. Auth Based Operations
  <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
