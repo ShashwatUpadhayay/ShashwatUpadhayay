@@ -1,9 +1,7 @@
 ## Hi there 👋
 Hi, I’m Shashwat
 I like building things that solve real problems.
-Not demos.
-Not half-finished ideas.
-But systems that people can actually use.
+
 
 Most of my work revolves around connecting people and turning complex processes into intuitive experiences. 
 
