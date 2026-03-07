@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there 👋 
 Hi, I’m Shashwat
 I like building things that solve real problems and makes work easier.
 
