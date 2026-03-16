@@ -15,7 +15,7 @@ Most of my work revolves around connecting people and turning complex processes 
 
 ⚡ Fun fact:
 
-I Think I'm Not Good Enough
+16 x 2 = 8
  <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
