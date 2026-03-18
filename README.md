@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 Hi, I’m Shashwat
 I like building things that solve real problems and makes work easier.
 
@@ -13,10 +13,8 @@ Most of my work revolves around connecting people and turning complex processes 
 2. Backend Development
 3. Auth Based Operations
 
-⚡ Fun fact:
-
-16 x 2 = 8
- <!--
+<!--⚡ Fun fact:
+ 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
