@@ -1,5 +1,5 @@
-## Hi there 👋
-Hi, I’m Shashwat
+## Hi there 
+Hi, I’m Shashwat Upadhayay
 I like building things that solve real problems and makes work easier.
 
 
