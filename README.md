@@ -2,7 +2,6 @@
 Hi, I’m Shashwat Upadhayay
 I like building things that solve real problems and makes work easier.
 
-
 Most of my work revolves around connecting people and turning complex processes into intuitive experiences. 
 
 🔭 I’m currently building 
