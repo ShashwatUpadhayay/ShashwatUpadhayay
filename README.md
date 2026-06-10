@@ -6,6 +6,7 @@ Most of my work revolves around connecting people and turning complex processes 
 
 🔭 I’m currently building 
 1. FOMO - An Event Hosting and Management Platform
+2. KRON - A Real Time Based Terminal Collaboration Tool
 
 🌱 I’m currently learning:
 1. Go Lang
