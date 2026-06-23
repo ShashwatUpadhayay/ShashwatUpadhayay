@@ -5,7 +5,7 @@ I like building things that solve real problems and makes work easier.
 Most of my work revolves around connecting people and turning complex processes into intuitive experiences. 
 
 🔭 I’m currently building 
-1. FOMO - An Event Hosting and Management Platform
+1. Pingled - An Event Hosting and Management Platform
 2. KRON - A Real Time Based Terminal Collaboration Tool
 
 🌱 I’m currently learning:
